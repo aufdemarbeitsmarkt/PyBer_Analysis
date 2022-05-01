@@ -19,7 +19,7 @@ While the number of total rides, total drivers, and total fares for rural cities
     * Suburban: 0.7 drivers to rides
     * Urban: 1.5 drivers to rides
 
-[!summary_df](analysis/screenshots/summary_df.png)
+![summary_df](analysis/screenshots/summary_df.png)
 
 
 
@@ -29,7 +29,7 @@ Two observations to note from this data:
 1. Urban cities' fares vary widely from the end of March through April. A year-over-year investigation may be necessary to determine whether this trend occurs each year around the same time. Additionally, we should analyze whether efforts can be made to make this oscillation more stable; stakeholders and drivers would appreciate predictability. 
 2. Suburban fares appear to increase quite steadily in early-April onward. A closer review of data beyond early Q2-2019 is in order. We'll want to determine whether this increase in fare amounts for suburban cities continues into the spring and summer. 
 
-[!PyBer_fare_summary](analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
